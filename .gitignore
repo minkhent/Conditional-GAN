@@ -1,0 +1,7 @@
+
+*.h5
+.DS_Store
+model/
+result/
+__pycache__
+.idea/
